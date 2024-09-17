@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## MORE TEXT
 
-JUST SOME TEXT MF.
+JUST SOME TEXT MF. CONFLICT.
