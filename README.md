@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 JUST SOME TEXT MF. You are gonna like those changes man.
 
 
+##Copyright
+
+2024 C
