@@ -6,6 +6,7 @@ Update emergency fix after stashing.
 ## Purpose
 
 Sample website with plenty of files for demos
+Stash example.
 
 ## MORE TEXT
 
