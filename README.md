@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Update emergency fix after stashing.
+Second update for rebase ex.
 
 ## Purpose
 
